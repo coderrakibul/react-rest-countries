@@ -9,9 +9,7 @@ function App() {
   return (
     <div className="App">
       {/* <LoadCountries> </LoadCountries> */}
-      <Header></Header>
       <Countries></Countries>
-      <Person></Person>
       
     </div>
   );
